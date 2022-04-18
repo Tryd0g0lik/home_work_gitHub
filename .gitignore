@@ -1,0 +1,9 @@
+/* ... */
+.DS_Store
+tmp
+index.html_old
+*.jpg
+*.png
+*.svg
+*.db
+NeuroStartUp.png_backup
